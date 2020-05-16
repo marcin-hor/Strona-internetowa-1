@@ -1,0 +1,63 @@
+#bigContainer{
+    background-color:green;
+}
+
+#container{
+    background-color: blue;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#logo{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+#nav{
+    float: left;
+    background-color: gray;
+    width: 120px;
+    min-height: 620px;
+    padding: 10px;
+    
+}
+.menu{
+    background-color:yellow;
+    width: 100px;
+    height: 40px;
+    border: solid blue;
+    margin: 10px;
+    margin-left: auto;
+    padding: 10px;	
+}
+#content{
+    float: left;
+    background-color: lightgray;
+    width: 795px;
+    height: 600px;
+    padding: 20px;
+    
+}
+#footer{
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}	
+
+.obraz{
+    
+    width:300px;
+}
+
+.obiad{
+    height: 150px;
+}
+
+.obra{
+    height:550px;
+}
+
